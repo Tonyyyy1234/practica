@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: orange;
+  text-transform: uppercase;
+  font-family: futura;
+}
+
+#borat {
+  width: 505px;
+  height: 343px;
+}
+
+.pics {
+  text-align: center;
+}
