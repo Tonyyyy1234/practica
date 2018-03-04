@@ -4,8 +4,8 @@ body {
 
 h1 {
   text-align: center;
-  color: seaGreen;
-  text-transform: uppercase;
+  color: orange;
+  text-transform: capitalize;
   font-family: futura;
 }
 
